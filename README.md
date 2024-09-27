@@ -60,6 +60,7 @@ or how many Engagements our Key Opinion Leaders (KOL) generate. Marketing Conver
 <li>New programmers/developers introduced and converted to PBA attendees, POP, Plaza, JAM, and Parachains/Partnerchains developers.</li>
 <li>New Parachains/Partnerchains introduced to Polkadot because of marketing.</li>
 </ul>
+
 2.2. **ROI-Centric Approach to OpenGov:** What I want to see is a return-on-investment-centric approach to all spending in OpenGov. This means after every spend a Debrief/After-Action-Report should be generated to determine the efficacy of each ref based on spend. These reports should include money spent, ROI-rating, the efficacy of the ref, a rating of the services rendered, and lessons learned. We should refrain from rewarding Polkadot actors who have a history of delivering low-quality or suspect services.
 
 3.0. **A Community-Centric Approach to Polkadot America:** I think Web3/Parity has done an amazing job at creating Polkadot communities in Europe and Asia. But, I think we should shift our attention to America (the world’s wealthiest country). I co-founded Eagle DAO to give Americans a voice in the Polkadot ecosystem. This isn’t an official DAO, there aren’t any multi-sig wallets associated yet, and it won’t be ready by DV Cohort 3. But, it is a community of Polkadot Americans that are passionate about Polkadot. We discuss refs, and potential future refs here:
